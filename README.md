@@ -2,7 +2,7 @@
 🧠 A simple bubble sort visualizer in HTML, CSS and JS
 
 ### Quick Note
-`ctrl+r` to reset and generate a new array
+`ctrl+r` to reset and generate a new array.
 
 ### HTML
 [`index.html`](https://github.com/xirxo/BubbleSort/blob/main/index.html)
