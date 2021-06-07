@@ -5,6 +5,7 @@
 `ctrl+r` to reset and generate a new array
 
 ### HTML
+[`index.html`](https://github.com/xirxo/BubbleSort/blob/main/index.html)
 ```html
 <html lang="en">
   
@@ -26,6 +27,7 @@
 </html>
 ```
 ### CSS
+[`style.css`](https://github.com/xirxo/BubbleSort/blob/main/style.css)
 ```css
 * {
     margin: 0px;
@@ -64,6 +66,7 @@
 }
 ```
 ### JS
+[`script.js`](https://github.com/xirxo/BubbleSort/blob/main/script.js)
 ```js
 var container = document.getElementById("array");
 
