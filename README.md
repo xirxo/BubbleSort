@@ -1,6 +1,9 @@
 # BubbleSort
 🧠 A simple bubble sort visualizer in HTML, CSS and JS
 
+### Quick Note
+`ctrl+r` to reset and generate a new array
+
 ### HTML
 ```html
 <html lang="en">
